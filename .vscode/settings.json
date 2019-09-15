@@ -1,0 +1,5 @@
+{
+  "rust-analyzer.enableCargoWatchOnStartup": "enabled",
+  "rust-analyzer.highlightingOn": true,
+  "rust-analyzer.lruCapacity": 1
+}
